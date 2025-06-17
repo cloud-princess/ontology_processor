@@ -1,0 +1,3 @@
+ID,EDGE_TYPE,HEAD_ENTITY,TAIL_ENTITY
+1,SubclassOf,organism,entity
+2,SubclassOf,plant,organism
